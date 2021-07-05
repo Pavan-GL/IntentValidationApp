@@ -1,0 +1,8 @@
+{
+    "filled": false,
+    "partially_filled": true,
+    "trigger": "invalid_age",
+    "parameters": {
+        "age_stated": -1
+    }
+}

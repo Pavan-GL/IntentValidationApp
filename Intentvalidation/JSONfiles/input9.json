@@ -1,0 +1,24 @@
+{
+  "invalid_trigger": "invalid_age",
+  "key": "age_stated",
+  "name": "age",
+  "reuse": true,
+  "pick_first": true,
+  "type": [
+    "number"
+  ],
+  "validation_parser": "numeric_values_entity",
+  "constraint": "x>=18 and x<=30",
+  "var_name": "x",
+  "values": [
+    {
+      "entity_type": "number",
+      "value": 22
+    },
+    {
+      "entity_type": "number",
+      "value": 10
+    }
+
+  ]
+}

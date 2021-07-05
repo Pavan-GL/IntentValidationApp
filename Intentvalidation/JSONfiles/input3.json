@@ -1,0 +1,22 @@
+{
+  "invalid_trigger": "invalid_ids_stated",
+  "key": "ids_stated",
+  "name": "govt_id",
+  "reuse": true,
+  "support_multiple": true,
+  "supported_values": [
+    "pan",
+    "aadhaar",
+    "college",
+    "corporate",
+    "dl",
+    "voter",
+    "passport",
+    "local"
+  ],
+  "type": [
+    "id"
+  ],
+  "validation_parser": "finite_values_entity",
+  "values": []
+}
