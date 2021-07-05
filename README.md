@@ -18,6 +18,11 @@ Intention validator:
 This project intendes to validates intention composed of entities behind the utterance. It's a basic Django app which has three POST Apis
 * validate_finite_entity : https://localhost:8000/validateFiniteEntity
 * validate_num_entity: https://localhost:8000/validateNumEntity
+
+
+
+
+
 Assumptions:
 
 
